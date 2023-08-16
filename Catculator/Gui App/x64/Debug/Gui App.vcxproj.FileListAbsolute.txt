@@ -1,0 +1,8 @@
+C:\Users\flant\OneDrive\Desktop\source\Gui App\Gui App\x64\Debug\Gui App.vcxproj.AssemblyReference.cache
+C:\Users\flant\OneDrive\Desktop\source\Gui App\Gui App\x64\Debug\Gui App.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\flant\OneDrive\Desktop\source\Gui App\Gui App\x64\Debug\GuiApp.MyForm.resources
+C:\Users\flant\OneDrive\Desktop\source\Gui App\Gui App\x64\Debug\Gui App.vcxproj.GenerateResource.cache
+C:\Users\flant\OneDrive\Desktop\source\Catculator\Gui App\x64\Debug\Gui App.vcxproj.AssemblyReference.cache
+C:\Users\flant\OneDrive\Desktop\source\Catculator\Gui App\x64\Debug\Gui App.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\flant\OneDrive\Desktop\source\Catculator\Gui App\x64\Debug\GuiApp.MyForm.resources
+C:\Users\flant\OneDrive\Desktop\source\Catculator\Gui App\x64\Debug\Gui App.vcxproj.GenerateResource.cache
